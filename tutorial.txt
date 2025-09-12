@@ -1,2 +1,10 @@
-1. pilih file yang mau di translate dari folder 'Dumps_EN', copy paste ke folder 'scripts'
-2. 
+1. pilih file yang mau di translate dari folder 'Dumps_EN', copy paste ke folder 'scripts'. contoh, EN_Belltown.txt
+2. rename ekstensi file barusan yang di copy dari '.txt' menjadi '.xml'. contoh, EN_Belltown.txt menjadi EN_Belltown.xml
+3. buka xml_to_csv.py dan ubah kode bagian yang harus diubah dengan nama file barusan dicopy. contoh ubah bagian NAMA_FILE menjadi EN_Belltown
+4. buka terminal run command:
+    cd .\scripts\
+    lalu run:
+    python xml_to_csv.py
+5. buka excel, lalu buat file blank
+6. buka tab data. lalu tekan 'From Text/CSV' atau 'Dari Text/CSV'
+7. pilih file .csv tadi
