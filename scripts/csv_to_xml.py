@@ -1,12 +1,12 @@
 import csv
 
 # Baca CSV hasil translate
-with open("EN_Belltown_translated.csv", "r", encoding="utf-8") as f:
+with open("EN_Bonebottom_translated.csv", "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     translated_entries = {row["name"]: row["translated_text"] or row["original_text"] for row in reader}
 
 # Baca file XML asli
-with open("EN_Belltown.xml", "r", encoding="utf-8") as f:
+with open("EN_Bonebottom.xml", "r", encoding="utf-8") as f:
     xml_data = f.read()
 
 # Replace isi entry dengan translate
@@ -18,7 +18,7 @@ def replacer(match):
 new_xml = re.sub(r'<entry name="(.*?)">(.*?)</entry>', replacer, xml_data, flags=re.DOTALL)
 
 # Simpan hasil
-with open("EN_Belltown_translated.xml", "w", encoding="utf-8") as f:
+with open("EN_Bonebottom_translated.xml", "w", encoding="utf-8") as f:
     f.write(new_xml)
 
-print("✅ Merge selesai! Cek file EN_Belltown_translated.xml")
+print("✅ Merge selesai! Cek file EN_Bonebottom_translated.xml")
