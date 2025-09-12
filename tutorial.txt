@@ -1,0 +1,2 @@
+1. pilih file yang mau di translate dari folder 'Dumps_EN', copy paste ke folder 'scripts'
+2. 
