@@ -2,7 +2,6 @@
 # extract_entries.py
 # Usage:
 #   python extract_entries.py path/to/file.xml
-#   python extract_entries.py path/to/file.txt
 #   cat file.xml | python extract_entries.py
 
 import re
