@@ -1,0 +1,349 @@
+﻿Tidak Dapat Melengkapi Perkakas
+
+Spear-phial berisi Plasmium.<br><br>Menyuntikkan cairan ini memungkinkan seseorang mendapatkan kesehatan di luar batas alami mereka.
+
+Brace pin bedah dari Whiteward. Digunakan untuk memaksa memasukkan Sutera jauh ke dalam cangkang serangga. <br><br>Meningkatkan kecepatan pengikatan (binding).
+
+Ubah Perkakas saat beristirahat di bangku.
+
+Alat bercangkuk untuk mengambil paksa jarahan dari serangga dan husks.<br><br>Tombak musuh untuk mencuri rosario dan pecahan cangkang, sambil menyebabkan damage tambahan.
+
+Gelang ganas yang dikenakan oleh mereka yang percaya mereka belum dihukum semestinya.<br><br>Meningkatkan damage yang diterima, tetapi juga meningkatkan damage yang ditimbulkan oleh jarum.
+
+Lengkapi Perkakas
+
+Cakar Cermin
+
+Perluas
+
+Meriam Rosario
+
+Memburu mangsa dan menyerang dengan serangan mematikan.
+
+Tembakan Sutera (Silkshot)
+
+Lengkapi Perkakas saat beristirahat di bangku.
+
+Pengembara (Wanderer)
+
+Lencana Pin
+
+Ubah (Transform)
+
+Sabuk fleksibel dari gigi logam bergerigi, dapat dipasang di ujung jubah.<br><br>Membentangkan jubah akan memutar bilah-bilahnya, merusak musuh di sekitarnya.
+
+Pin pendek yang dirancang untuk ditaburkan di tanah.<br><br>Ujungnya yang tajam akan menusuk musuh yang menginjaknya.
+
+Pengikat Ganda (Multibinder)
+
+Alat teater kembar dari seorang serangga yang sombong.<br><br>Saat mengikat, memancarkan ledakan membara yang merusak musuh di sekitarnya.
+
+Lihat Lambang (Crests)
+
+Pilih Lambang
+
+Memburu mangsa dan menyerang dengan serangan mematikan. Bangun fokus dengan serangan beruntun.
+
+Pemotong Kerang (Conchcutter)
+
+Telur Flealia
+
+Wadah Voltvessels
+
+Genggaman Ascendant (Ascendant's Grip)
+
+Cakar Panjang (Longclaw)
+
+Senjata spiral yang dibentuk dari conchspire yang mengeras.<br><br>Dilempar secara menyudut, dapat memantul dan menangkap mangsa secara tak terduga.
+
+Filamen Volt (Volt Filament)
+
+Mainan yang diukir dari bahan magnetik.<br><br>Digunakan dalam permainan sederhana dan dipercaya membawa keberuntungan bagi pemakainya.
+
+Isi Ulang (Reload)
+
+Pin dan gagang pemberat, dibentuk untuk menembus cangkang yang keras.
+
+Gunakan
+
+Alat lempar ringan, dirancang untuk serangan cepat.
+
+Spear-phial kosong untuk menyuntikkan Plasmium.<br><br>Dapatkan lebih banyak Plasmium untuk memulihkan perkakas.
+
+Wadah akses cepat yang dibentuk dari cangkang tua.<br><br>Meningkatkan jumlah perkakas yang dapat dibuat.
+
+Lengkapi Perkakas tambahan, independen dari Lambang seseorang.
+
+Brooch Magnetit (Magnetite Brooch)
+
+Alat penjebak dari para Penenun (Weavers). Meletakkan rune Sutera yang menyala saat musuh bersentuhan.<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri.
+
+Jimat perlindungan yang terbentuk dari Mossberries.<br><br>Saat pemakainya menerima damage, jimat tersebut mengeluarkan eliksir hijau yang akan berubah menjadi Sutera.
+
+Minuman penyegar yang disiapkan oleh Kafilah Kutu (Flea Caravan).<br><br>Untuk sementara meningkatkan kecepatan gerakan dan serangan.
+
+Jebakan mematikan yang terbuat dari bilah-bilah yang diikat erat.<br><br>Setelah ditempatkan, jebakan akan menusuk musuh yang bersentuhan.
+
+Topeng Retak (Fractured Mask)
+
+Phial Plasmium Diisi Ulang
+
+Pin Tiga Lipat (Threefold Pin)
+
+Mengiris dengan cepat dan lincah menggunakan serangan pendek dan tepat.
+
+Mekanisme yang dimanfaatkan ulang dari dasar mesin merangkai rosario.<br><br>Rosario harus dimasukkan untuk mengisi ulang meriam.
+
+Senjata kuno para Penenun, diperbaiki dan dimodifikasi oleh Arsitek Kedua Belas (Twelfth Architect).<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
+
+Sabuk Pemberat (Weighted Belt)
+
+Cambuk jarum dengan ayunan menyapu. Hisap kehidupan musuh melalui akar yang terpelintir.
+
+Phial Plasmium
+
+Senjata lempar yang mengeras dari prajurit Shakra.<br><br>Senjata kekuatan tumpul yang memantul di antara musuh dan permukaan keras.
+
+Mencabik musuh dengan tebasan ganas. Ikat untuk memasuki amukan liar dan mencuri kehidupan dari mangsa.
+
+Dustpillo
+
+Batu reflektif dengan sifat mnemonic.<br><br>Saat menerima damage, sebuah memori dari pemakainya terbentuk dari kristal. Memori itu akan hancur menjadi duri tajam jika musuh bersentuhan.
+
+Mata Druid (Druid's Eye)
+
+Minuman Kutu (Flea Brew) Diisi Ulang
+
+Batu suci bertuliskan doa untuk rosario.<br><br>Manik-manik yang longgar akan tertarik ke arah pemakai.
+
+Lambang Terikat dari (Bound the Crest of)
+
+Perangkat Penenun yang canggih. Beresonansi dengan musik yang dimainkan untuk menguatkan dan meningkatkan pertunjukan.<br><br>Memperluas dan memperkuat efek Needolin.
+
+Kantong kain berisi material volatil.<br><br>Meledak saat mengenai musuh atau ketika sumbunya dinyalakan.
+
+Artefak ornate dari Citadel, dapat menampung satu Ikatan (Bind) penuh Sutera. Digunakan ketika penyembuhan dibutuhkan dan sumber daya alami seseorang habis.<br><br>Ikatan Cadangan (Reserve Bind) akan dipulihkan saat beristirahat di bangku.
+
+Dukun (Shaman)
+
+Lonceng besi tempa, dibuat untuk menangkal panas hebat dari Deep Docks.<br><br>Mengurangi damage yang diterima dari api dan magma.
+
+Cakar Melengkung (Curveclaw)
+
+Alat rotary yang digunakan untuk mengebor tulang dan batu.<br><br>Mendorong pemakai ke bawah, sambil memutar bor dengan kekuatan destruktif.
+
+Organ bermuatan dari Voltvyrm yang dikalahkan.<br><br>Dapat dililitkan di sekitar benang, membebankan listrik pada Silk Skills.
+
+Cogfly
+
+Ubah Lambang saat beristirahat di bangku.
+
+Kompas
+
+Pecahan Sengat (Sting Shard)
+
+Batu asah yang terbuat dari Flintgem yang dipotong dan dipoles.<br><br>Untuk sementara memanaskan secara super bilah jarum, membubuhkan api pada setiap tebasan dan meningkatkan kekuatan mematikan.
+
+Senjata kuno para Penenun, diperbaiki dan dimodifikasi oleh Putri Tempa (Forge Daughter).<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
+
+Tengkorak serangga tua yang diukir untuk perlindungan. Melindungi dari damage kritis tetapi pecah saat benturan.<br><br>Jika pecah, topeng akan diperbaiki saat beristirahat di bangku.
+
+Mata-Mata Druid (Druid's Eyes)
+
+Kantong berisi racun cepat saji yang diambil dari jantung bunga.<br><br>Menerapkan racun pada perkakas yang dilengkapi.
+
+Liontin Pecahan (Shard Pendant)
+
+Lengkapi Silk Skills saat beristirahat di bangku.
+
+Pemburu (Hunter)
+
+Ikatan Cadangan (Reserve Bind)
+
+Roda Cogwork (Cogwork Wheel)
+
+Bor Penjelajah (Delver's Drill)
+
+Isi Ulang Otomatis (Auto Reload)
+
+Bilah melingkar yang mengembang digerakkan oleh motor cogwork.<br><br>Mendorong ke depan, mengiris melalui musuh.
+
+Paku (Tacks)
+
+Sabit Lengkung (Curvesickle)
+
+Lingkaran Gergaji (Sawtooth Circlet)
+
+Alat teater dari seorang serangga yang sombong.<br><br>Saat mengikat, memancarkan kilauan menyilaukan yang merusak musuh di sekitarnya.
+
+Lentera besi rusak berisi wispfire yang membara.<br><br>Wisp akan muncul dari lentera dan membakar musuh, dengan biaya Sutera.
+
+Penuai (Reaper)
+
+Perkakas Diperoleh (Tool Acquired)
+
+Rakit Ikatan (Craft Bind)
+
+Simbol yang dikenakan untuk mengidentifikasi diri kepada sesama pencuri.<br><br>Dapatkan rosario ekstra dari musuh yang dikalahkan, tetapi kehilangan beberapa rosario saat menerima damage.
+
+Penggulung Tambahan (Spool Extender)
+
+Vesticrest
+
+Arsitek (Architect)
+
+Lonceng Perlindungan (Warding Bell)
+
+Tidak dapat menggunakan item saat berada dalam memori.
+
+Mekanisme penarik yang kencang, dibangun dari alang-alang dan tulang, dimaksudkan untuk dipasang di anggota badan serangga.<br><br>Melipatgandakan jumlah perkakas yang dilempar.
+
+Pendamping cogwork bersayap yang akan mencari musuh terdekat dan menyerang.
+
+Spindle Penenun yang rumit dan terukir, hanya dapat digunakan oleh pengguna Sutera.<br><br>Memperpanjang proses pengikatan, tetapi meningkatkan efek penyembuhannya.
+
+Lemparkan bilah ke depan dan perkuat Silk Skills dengan rune yang kuat.
+
+Diperluas (Expanded the)
+
+Mendapatkan (Gained a)
+
+Ubah Lambang (Change Crest)
+
+Scuttlebrace
+
+Gelang rapuh anyaman alang-alang dan daun, dibuat untuk mengusir Muckmaggots.<br><br>Jika rusak, karangan bunga akan diperbaiki saat beristirahat di bangku.
+
+Kantong Pollip (Pollip Pouch)
+
+Karangan Kemurnian (Wreath of Purity)
+
+Tas Cangkang (Shell Satchel)
+
+Perluas Lambang (Expand Crest)
+
+Tanda Pencuri (Thief's Mark)
+
+Kantong kain berisi bubuk tidak stabil.<br><br>Meledak saat mengenai musuh atau ketika sumbunya dinyalakan.
+
+Minuman Kutu (Flea Brew)
+
+Senar Laba-laba (Spider Strings)
+
+Dompet yang dibuang oleh peziarah yang gugur.<br><br>Memungkinkan pemakainya untuk menyimpan beberapa rosario saat dikalahkan.
+
+Gelang kaki eksperimental buatan Penenun.<br><br>Menggunakan Sutera si pemakai sendiri untuk meningkatkan kecepatan lari.
+
+Gelang Penyuntik (Injector Band)
+
+Cahaya Tenun (Weavelight)
+
+Pin Panjang (Longpin)
+
+Serang dengan tebasan berat dan melengkung, dan kumpulkan Sutera tambahan dari musuh.
+
+Cermin Cakar (Claw Mirror)
+
+Sling Cepat (Quick Sling)
+
+Lonceng suci bertuliskan kidung perlindungan.<br><br>Melindungi pemakainya saat mereka membalut luka mereka.
+
+Cermin Gelap (Dark Mirror)
+
+Binatang (Beast)
+
+Botol kosong yang sebelumnya berisi minuman penyegar.<br><br>Dapatkan lebih banyak Flea Brew untuk memulihkan perkakas.
+
+Lambang Orde Pinstress, master blade tua Pharloom.<br><br>Mengurangi waktu pengisian Needle Strike.
+
+Tulang tajam radial yang digunakan oleh pemburu terampil untuk menjatuhkan mangsa berbahaya.
+
+Dompet Serangga Mati (Dead Bug's Purse)
+
+Plasmium Dikumpulkan
+
+Lentera Wispfire (Wispfire Lantern)
+
+Gelang Kecepatan Sutera (Silkspeed Anklets)
+
+Lengkapi Perkakas di menu Lambang<br>sambil beristirahat di bangku.
+
+Penyihir (Witch)
+
+Tulang tajam melengkung yang digunakan oleh pemburu untuk menjatuhkan mangsa terbang.
+
+Isi Ulang Perkakas saat beristirahat di bangku.
+
+Tidak dapat mengubah Lambang
+
+Alat pelacak rumit, diukir dari cangkang.<br><br>Saat dilengkapi, lokasi pemakainya akan ditandai di peta mereka.
+
+Untuk mengubah Lambang, buka layar Lambang di Menu saat beristirahat di bangku.
+
+Phial Jarum (Needle Phial)
+
+Tulang punggung buatan yang mencengkeram erat di sekitar cangkang.<br><br>Meningkatkan fleksibilitas alami pemakainya, memungkinkan mundur dengan cepat.
+
+Pemasang Perangkap (Snare Setter)
+
+Orb yang dapat diubah mengandung listrik.<br><br>Wadah dapat dilempar sebagai bola untuk pelepasan eksplosif atau ditancapkan sebagai tombak untuk melepaskan pilar energi.
+
+Lepas Perkakas (Unequip Tool)
+
+Lepas Skill (Unequip Skill)
+
+Alat penyimpan Sutera dari Citadel, dibentuk menyerupai artefak para Penenun.<br><br>Memungkinkan penyimpanan Sutera tambahan di luar kemampuan alami seseorang.
+
+Barang rongsokan kasar yang dikenakan oleh kolektor dan perajin.<br><br>Memungkinkan seseorang mengumpulkan lebih banyak pecahan cangkang dari makhluk yang dikalahkan.
+
+Pencungkil Snitch (Snitch Pick)
+
+Cadangan (Reserve)
+
+Piton berlapis emas yang memungkinkan seseorang bertahan di tempatnya saat berada di dinding.
+
+Alat yang dirancang untuk mengekstrak dan menyimpan cairan.<br><br>Untuk menembus targetnya, Phial Jarum harus terlebih dahulu diisi hingga ketegangan penuh.
+
+Dadu Magnetit (Magnetite Dice)
+
+Lonceng Magma (Magma Bell)
+
+Batu Api (Flintslate)
+
+Ikon induk kutu mitos, diturunkan dari kafilan kuno. Simbol perlindungan dan persaudaraan.<br><br>Mengurangi biaya Silk Skills saat kesehatan penuh.
+
+Pimpillo
+
+Aparat bersinar buatan Penenun. Intinya memancarkan cahaya redup.<br><br>Meningkatkan kecepatan regenerasi Sutera.
+
+Jimat perlindungan kuat yang terbentuk dari banyak Mossberries.<br><br>Saat pemakainya menerima damage, jimat tersebut mengeluarkan eliksir hijau yang akan berubah menjadi Sutera.
+
+Tidak Dapat Melengkapi Silk Skills
+
+Lengkapi Skill (Equip Skill)
+
+Empedu Dikumpulkan (Bile Collected)
+
+Gelang Duri (Barbed Bracelet)
+
+Lengkapi perkakas untuk bantuan dalam pertempuran atau eksplorasi.
+
+Pita berat yang disukai oleh mereka yang langkahnya tidak stabil.<br><br>Pemakai akan lebih sedikit terpental saat menyerang musuh dan tidak akan terlempar sejauh itu saat menerima damage.
+
+Jimat yang dibentuk dari cakar predator besar.<br><br>Meningkatkan jangkauan serangan jarum.
+
+Botol pecah yang sebelumnya berisi minuman penyegar.<br><br>Dapatkan lebih banyak Flea Brew untuk memulihkan perkakas.
+
+Cincin Lempar (Throwing Ring)
+
+Senjata kuno para Penenun, diperbaiki ke bentuk aslinya.<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
+
+Pin Lurus (Straight Pin)
+
+Putar jarum seperti sekrup, mencabik musuh. Habiskan Sutera untuk dengan cepat membuat perkakas baru.
+
+Kristal Memori (Memory Crystal)
+
+Senjata datar berlapis, dibuat untuk dilempar dalam satu set.
+
+Scuttle
