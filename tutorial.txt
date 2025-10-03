@@ -8,3 +8,18 @@
 5. buka excel, lalu buat file blank
 6. buka tab data. lalu tekan 'From Text/CSV' atau 'Dari Text/CSV'
 7. pilih file .csv tadi
+8. translate teks yang ada di kolom original_text dan masukkan ke dalam kolom translated_text
+9. pastikan di kolom translated_text tidak ada "" ataupun <page> ataupun <hpage>
+10. ketika sudah selesai translate, save file dengan save as, kemudian tambahkan _translated di akhir nama file. contoh EN_Caravan.csv -> EN_Caravan_translated.csv
+11. pastikan ketika save as pilih format file nya itu UTF-8 .csv
+12. cek untuk file translated_csv tadi di vscode. jika terbuka dengan encoding UTF-8 with BOM, itu bakalan error ketika run script csv_to_xml.py
+13. jika tidak maka buka script csv_to_xml.py dan ubah beberapa baris sesuai dengan nama file yang ada kerjakan.
+14. jika sudah mengubah beberapa baris run script 'python csv_to_xml.py'
+15. jika berhasil maka akan menghasilkan file file translated.xml
+16. pindahkan file tersebut ke folder Custom_EN_Plaintext
+17. rename file yang barusan dipindahkan, hapus untuk bagian '_translated' nya. serta rename formatnya dari .xml menjadi .txt
+
+
+#INFORMASI
+pastikan ketika bekerja menggunakan vscode, untuk encoding nya pakai UTF-8.
+jika belum kamu bisa mengubah nya dengan tekan ctrl + shift + p. kemudian ketik encoding. dan pilih UTF-8
