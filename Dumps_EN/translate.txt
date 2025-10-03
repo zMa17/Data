@@ -1,349 +1,394 @@
-﻿Tidak Dapat Melengkapi Perkakas
-
-Spear-phial berisi Plasmium.<br><br>Menyuntikkan cairan ini memungkinkan seseorang mendapatkan kesehatan di luar batas alami mereka.
-
-Brace pin bedah dari Whiteward. Digunakan untuk memaksa memasukkan Sutera jauh ke dalam cangkang serangga. <br><br>Meningkatkan kecepatan pengikatan (binding).
-
-Ubah Perkakas saat beristirahat di bangku.
-
-Alat bercangkuk untuk mengambil paksa jarahan dari serangga dan husks.<br><br>Tombak musuh untuk mencuri rosario dan pecahan cangkang, sambil menyebabkan damage tambahan.
-
-Gelang ganas yang dikenakan oleh mereka yang percaya mereka belum dihukum semestinya.<br><br>Meningkatkan damage yang diterima, tetapi juga meningkatkan damage yang ditimbulkan oleh jarum.
-
-Lengkapi Perkakas
-
-Cakar Cermin
-
-Perluas
-
-Meriam Rosario
-
-Memburu mangsa dan menyerang dengan serangan mematikan.
-
-Tembakan Sutera (Silkshot)
-
-Lengkapi Perkakas saat beristirahat di bangku.
-
-Pengembara (Wanderer)
-
-Lencana Pin
-
-Ubah (Transform)
-
-Sabuk fleksibel dari gigi logam bergerigi, dapat dipasang di ujung jubah.<br><br>Membentangkan jubah akan memutar bilah-bilahnya, merusak musuh di sekitarnya.
-
-Pin pendek yang dirancang untuk ditaburkan di tanah.<br><br>Ujungnya yang tajam akan menusuk musuh yang menginjaknya.
-
-Pengikat Ganda (Multibinder)
-
-Alat teater kembar dari seorang serangga yang sombong.<br><br>Saat mengikat, memancarkan ledakan membara yang merusak musuh di sekitarnya.
-
-Lihat Lambang (Crests)
-
-Pilih Lambang
-
-Memburu mangsa dan menyerang dengan serangan mematikan. Bangun fokus dengan serangan beruntun.
-
-Pemotong Kerang (Conchcutter)
-
-Telur Flealia
-
-Wadah Voltvessels
-
-Genggaman Ascendant (Ascendant's Grip)
-
-Cakar Panjang (Longclaw)
-
-Senjata spiral yang dibentuk dari conchspire yang mengeras.<br><br>Dilempar secara menyudut, dapat memantul dan menangkap mangsa secara tak terduga.
-
-Filamen Volt (Volt Filament)
-
-Mainan yang diukir dari bahan magnetik.<br><br>Digunakan dalam permainan sederhana dan dipercaya membawa keberuntungan bagi pemakainya.
-
-Isi Ulang (Reload)
-
-Pin dan gagang pemberat, dibentuk untuk menembus cangkang yang keras.
-
-Gunakan
-
-Alat lempar ringan, dirancang untuk serangan cepat.
-
-Spear-phial kosong untuk menyuntikkan Plasmium.<br><br>Dapatkan lebih banyak Plasmium untuk memulihkan perkakas.
-
-Wadah akses cepat yang dibentuk dari cangkang tua.<br><br>Meningkatkan jumlah perkakas yang dapat dibuat.
-
-Lengkapi Perkakas tambahan, independen dari Lambang seseorang.
-
-Brooch Magnetit (Magnetite Brooch)
-
-Alat penjebak dari para Penenun (Weavers). Meletakkan rune Sutera yang menyala saat musuh bersentuhan.<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri.
-
-Jimat perlindungan yang terbentuk dari Mossberries.<br><br>Saat pemakainya menerima damage, jimat tersebut mengeluarkan eliksir hijau yang akan berubah menjadi Sutera.
-
-Minuman penyegar yang disiapkan oleh Kafilah Kutu (Flea Caravan).<br><br>Untuk sementara meningkatkan kecepatan gerakan dan serangan.
-
-Jebakan mematikan yang terbuat dari bilah-bilah yang diikat erat.<br><br>Setelah ditempatkan, jebakan akan menusuk musuh yang bersentuhan.
-
-Topeng Retak (Fractured Mask)
-
-Phial Plasmium Diisi Ulang
-
-Pin Tiga Lipat (Threefold Pin)
-
-Mengiris dengan cepat dan lincah menggunakan serangan pendek dan tepat.
-
-Mekanisme yang dimanfaatkan ulang dari dasar mesin merangkai rosario.<br><br>Rosario harus dimasukkan untuk mengisi ulang meriam.
-
-Senjata kuno para Penenun, diperbaiki dan dimodifikasi oleh Arsitek Kedua Belas (Twelfth Architect).<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
-
-Sabuk Pemberat (Weighted Belt)
-
-Cambuk jarum dengan ayunan menyapu. Hisap kehidupan musuh melalui akar yang terpelintir.
-
-Phial Plasmium
-
-Senjata lempar yang mengeras dari prajurit Shakra.<br><br>Senjata kekuatan tumpul yang memantul di antara musuh dan permukaan keras.
-
-Mencabik musuh dengan tebasan ganas. Ikat untuk memasuki amukan liar dan mencuri kehidupan dari mangsa.
-
-Dustpillo
-
-Batu reflektif dengan sifat mnemonic.<br><br>Saat menerima damage, sebuah memori dari pemakainya terbentuk dari kristal. Memori itu akan hancur menjadi duri tajam jika musuh bersentuhan.
-
-Mata Druid (Druid's Eye)
-
-Minuman Kutu (Flea Brew) Diisi Ulang
-
-Batu suci bertuliskan doa untuk rosario.<br><br>Manik-manik yang longgar akan tertarik ke arah pemakai.
-
-Lambang Terikat dari (Bound the Crest of)
-
-Perangkat Penenun yang canggih. Beresonansi dengan musik yang dimainkan untuk menguatkan dan meningkatkan pertunjukan.<br><br>Memperluas dan memperkuat efek Needolin.
-
-Kantong kain berisi material volatil.<br><br>Meledak saat mengenai musuh atau ketika sumbunya dinyalakan.
-
-Artefak ornate dari Citadel, dapat menampung satu Ikatan (Bind) penuh Sutera. Digunakan ketika penyembuhan dibutuhkan dan sumber daya alami seseorang habis.<br><br>Ikatan Cadangan (Reserve Bind) akan dipulihkan saat beristirahat di bangku.
-
-Dukun (Shaman)
-
-Lonceng besi tempa, dibuat untuk menangkal panas hebat dari Deep Docks.<br><br>Mengurangi damage yang diterima dari api dan magma.
-
-Cakar Melengkung (Curveclaw)
-
-Alat rotary yang digunakan untuk mengebor tulang dan batu.<br><br>Mendorong pemakai ke bawah, sambil memutar bor dengan kekuatan destruktif.
-
-Organ bermuatan dari Voltvyrm yang dikalahkan.<br><br>Dapat dililitkan di sekitar benang, membebankan listrik pada Silk Skills.
-
-Cogfly
-
-Ubah Lambang saat beristirahat di bangku.
-
-Kompas
-
-Pecahan Sengat (Sting Shard)
-
-Batu asah yang terbuat dari Flintgem yang dipotong dan dipoles.<br><br>Untuk sementara memanaskan secara super bilah jarum, membubuhkan api pada setiap tebasan dan meningkatkan kekuatan mematikan.
-
-Senjata kuno para Penenun, diperbaiki dan dimodifikasi oleh Putri Tempa (Forge Daughter).<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
-
-Tengkorak serangga tua yang diukir untuk perlindungan. Melindungi dari damage kritis tetapi pecah saat benturan.<br><br>Jika pecah, topeng akan diperbaiki saat beristirahat di bangku.
-
-Mata-Mata Druid (Druid's Eyes)
-
-Kantong berisi racun cepat saji yang diambil dari jantung bunga.<br><br>Menerapkan racun pada perkakas yang dilengkapi.
-
-Liontin Pecahan (Shard Pendant)
-
-Lengkapi Silk Skills saat beristirahat di bangku.
-
-Pemburu (Hunter)
-
-Ikatan Cadangan (Reserve Bind)
-
-Roda Cogwork (Cogwork Wheel)
-
-Bor Penjelajah (Delver's Drill)
-
-Isi Ulang Otomatis (Auto Reload)
-
-Bilah melingkar yang mengembang digerakkan oleh motor cogwork.<br><br>Mendorong ke depan, mengiris melalui musuh.
-
-Paku (Tacks)
-
-Sabit Lengkung (Curvesickle)
-
-Lingkaran Gergaji (Sawtooth Circlet)
-
-Alat teater dari seorang serangga yang sombong.<br><br>Saat mengikat, memancarkan kilauan menyilaukan yang merusak musuh di sekitarnya.
-
-Lentera besi rusak berisi wispfire yang membara.<br><br>Wisp akan muncul dari lentera dan membakar musuh, dengan biaya Sutera.
-
-Penuai (Reaper)
-
-Perkakas Diperoleh (Tool Acquired)
-
-Rakit Ikatan (Craft Bind)
-
-Simbol yang dikenakan untuk mengidentifikasi diri kepada sesama pencuri.<br><br>Dapatkan rosario ekstra dari musuh yang dikalahkan, tetapi kehilangan beberapa rosario saat menerima damage.
-
-Penggulung Tambahan (Spool Extender)
-
-Vesticrest
-
-Arsitek (Architect)
-
-Lonceng Perlindungan (Warding Bell)
-
-Tidak dapat menggunakan item saat berada dalam memori.
-
-Mekanisme penarik yang kencang, dibangun dari alang-alang dan tulang, dimaksudkan untuk dipasang di anggota badan serangga.<br><br>Melipatgandakan jumlah perkakas yang dilempar.
-
-Pendamping cogwork bersayap yang akan mencari musuh terdekat dan menyerang.
-
-Spindle Penenun yang rumit dan terukir, hanya dapat digunakan oleh pengguna Sutera.<br><br>Memperpanjang proses pengikatan, tetapi meningkatkan efek penyembuhannya.
-
-Lemparkan bilah ke depan dan perkuat Silk Skills dengan rune yang kuat.
-
-Diperluas (Expanded the)
-
-Mendapatkan (Gained a)
-
-Ubah Lambang (Change Crest)
-
-Scuttlebrace
-
-Gelang rapuh anyaman alang-alang dan daun, dibuat untuk mengusir Muckmaggots.<br><br>Jika rusak, karangan bunga akan diperbaiki saat beristirahat di bangku.
-
-Kantong Pollip (Pollip Pouch)
-
-Karangan Kemurnian (Wreath of Purity)
-
-Tas Cangkang (Shell Satchel)
-
-Perluas Lambang (Expand Crest)
-
-Tanda Pencuri (Thief's Mark)
-
-Kantong kain berisi bubuk tidak stabil.<br><br>Meledak saat mengenai musuh atau ketika sumbunya dinyalakan.
-
-Minuman Kutu (Flea Brew)
-
-Senar Laba-laba (Spider Strings)
-
-Dompet yang dibuang oleh peziarah yang gugur.<br><br>Memungkinkan pemakainya untuk menyimpan beberapa rosario saat dikalahkan.
-
-Gelang kaki eksperimental buatan Penenun.<br><br>Menggunakan Sutera si pemakai sendiri untuk meningkatkan kecepatan lari.
-
-Gelang Penyuntik (Injector Band)
-
-Cahaya Tenun (Weavelight)
-
-Pin Panjang (Longpin)
-
-Serang dengan tebasan berat dan melengkung, dan kumpulkan Sutera tambahan dari musuh.
-
-Cermin Cakar (Claw Mirror)
-
-Sling Cepat (Quick Sling)
-
-Lonceng suci bertuliskan kidung perlindungan.<br><br>Melindungi pemakainya saat mereka membalut luka mereka.
-
-Cermin Gelap (Dark Mirror)
-
-Binatang (Beast)
-
-Botol kosong yang sebelumnya berisi minuman penyegar.<br><br>Dapatkan lebih banyak Flea Brew untuk memulihkan perkakas.
-
-Lambang Orde Pinstress, master blade tua Pharloom.<br><br>Mengurangi waktu pengisian Needle Strike.
-
-Tulang tajam radial yang digunakan oleh pemburu terampil untuk menjatuhkan mangsa berbahaya.
-
-Dompet Serangga Mati (Dead Bug's Purse)
-
-Plasmium Dikumpulkan
-
-Lentera Wispfire (Wispfire Lantern)
-
-Gelang Kecepatan Sutera (Silkspeed Anklets)
-
-Lengkapi Perkakas di menu Lambang<br>sambil beristirahat di bangku.
-
-Penyihir (Witch)
-
-Tulang tajam melengkung yang digunakan oleh pemburu untuk menjatuhkan mangsa terbang.
-
-Isi Ulang Perkakas saat beristirahat di bangku.
-
-Tidak dapat mengubah Lambang
-
-Alat pelacak rumit, diukir dari cangkang.<br><br>Saat dilengkapi, lokasi pemakainya akan ditandai di peta mereka.
-
-Untuk mengubah Lambang, buka layar Lambang di Menu saat beristirahat di bangku.
-
-Phial Jarum (Needle Phial)
-
-Tulang punggung buatan yang mencengkeram erat di sekitar cangkang.<br><br>Meningkatkan fleksibilitas alami pemakainya, memungkinkan mundur dengan cepat.
-
-Pemasang Perangkap (Snare Setter)
-
-Orb yang dapat diubah mengandung listrik.<br><br>Wadah dapat dilempar sebagai bola untuk pelepasan eksplosif atau ditancapkan sebagai tombak untuk melepaskan pilar energi.
-
-Lepas Perkakas (Unequip Tool)
-
-Lepas Skill (Unequip Skill)
-
-Alat penyimpan Sutera dari Citadel, dibentuk menyerupai artefak para Penenun.<br><br>Memungkinkan penyimpanan Sutera tambahan di luar kemampuan alami seseorang.
-
-Barang rongsokan kasar yang dikenakan oleh kolektor dan perajin.<br><br>Memungkinkan seseorang mengumpulkan lebih banyak pecahan cangkang dari makhluk yang dikalahkan.
-
-Pencungkil Snitch (Snitch Pick)
-
-Cadangan (Reserve)
-
-Piton berlapis emas yang memungkinkan seseorang bertahan di tempatnya saat berada di dinding.
-
-Alat yang dirancang untuk mengekstrak dan menyimpan cairan.<br><br>Untuk menembus targetnya, Phial Jarum harus terlebih dahulu diisi hingga ketegangan penuh.
-
-Dadu Magnetit (Magnetite Dice)
-
-Lonceng Magma (Magma Bell)
-
-Batu Api (Flintslate)
-
-Ikon induk kutu mitos, diturunkan dari kafilan kuno. Simbol perlindungan dan persaudaraan.<br><br>Mengurangi biaya Silk Skills saat kesehatan penuh.
-
-Pimpillo
-
-Aparat bersinar buatan Penenun. Intinya memancarkan cahaya redup.<br><br>Meningkatkan kecepatan regenerasi Sutera.
-
-Jimat perlindungan kuat yang terbentuk dari banyak Mossberries.<br><br>Saat pemakainya menerima damage, jimat tersebut mengeluarkan eliksir hijau yang akan berubah menjadi Sutera.
-
-Tidak Dapat Melengkapi Silk Skills
-
-Lengkapi Skill (Equip Skill)
-
-Empedu Dikumpulkan (Bile Collected)
-
-Gelang Duri (Barbed Bracelet)
-
-Lengkapi perkakas untuk bantuan dalam pertempuran atau eksplorasi.
-
-Pita berat yang disukai oleh mereka yang langkahnya tidak stabil.<br><br>Pemakai akan lebih sedikit terpental saat menyerang musuh dan tidak akan terlempar sejauh itu saat menerima damage.
-
-Jimat yang dibentuk dari cakar predator besar.<br><br>Meningkatkan jangkauan serangan jarum.
-
-Botol pecah yang sebelumnya berisi minuman penyegar.<br><br>Dapatkan lebih banyak Flea Brew untuk memulihkan perkakas.
-
-Cincin Lempar (Throwing Ring)
-
-Senjata kuno para Penenun, diperbaiki ke bentuk aslinya.<br><br>Menggunakan tabung cangkang dan Sutera si pemakai sendiri untuk menembak.
-
-Pin Lurus (Straight Pin)
-
-Putar jarum seperti sekrup, mencabik musuh. Habiskan Sutera untuk dengan cepat membuat perkakas baru.
-
-Kristal Memori (Memory Crystal)
-
-Senjata datar berlapis, dibuat untuk dilempar dalam satu set.
-
-Scuttle
+﻿"Buah manis yang tumbuh di lingkungan lembab. Bijinya beracun bagi sebagian besar makhluk."
+"Jubah Pengembara"
+"Hati Pollip"
+"Laporan tentang Memorium dan pemeliharaannya. 'Penahanan gagal. Memori hilang. Buang bagian luar. Pertahankan bagian dalam. Stasis Shellwood terjaga - Ingat. Stasis Marrowlands kritis - Ingat. Lingkungan Verdanian terlampaui - Ditakdirkan untuk lupa.'"
+"Hati Serbuk Sari"
+"Berisi {0} pecahan cangkang."
+"Perkecil"
+"Kenangan Fleatopia"
+"Sarang yang dibentuk dari lonceng tua. Begitu dipasang, Craw muda akan sesekali bertengger di dalamnya, mengisi lonceng dengan pecahan cangkang dan rosario. Crawbell dapat dipasang di bagian luar rumah."
+"Peta & Pena"
+"Gulung"
+"Organ mirip permata yang diambil dari Flintbeetle. Menghasilkan percikan api ketika digosok, dan dapat meledak jika retak atau dijatuhkan."
+"Silinder Suci"
+"Pecahan Topeng"
+"Kenang-kenangan yang berisi memori berharga. Dapat digunakan untuk memperluas Crest. Perluas Crest di panel Crest Menu."
+"Kalahkan musuh untuk menambahkan catatan mereka ke Jurnal."
+"Tinjau musuh yang dikalahkan di panel Jurnal Menu."
+"Kembali"
+"Kantong dasar yang dirancang untuk menyimpan alat, perangkap, dan bahan kerajinan."
+"Jarum yang Diasah"
+"Piala berlapis emas yang dianugerahkan oleh Sprintmaster Swift kepada serangga tercepat di Pharloom."
+"Hati roda gigi yang telah dirakit kembali, berisi rangkaian roda dan regulator yang bagus."
+"Telur Gaib"
+"Ventrica"
+"Entri Materium Baru"
+"Kunci Murtad"
+"Kunci Bidah"
+"Materium"
+"Hati Skarrsinger Karmelita yang dihidupkan. Detaknya stabil dan kuat."
+"Perbaiki Item?"
+"Kain kotor, ditandai dengan coretan seorang Pekerja Bawah. 'Begitu banyak penderitaan. Apakah kita benar-benar terpilih, atau telah kita berdosa tanpa sadar, dan sekarang dihukum karenanya?'"
+"Teknik Perajut yang terlupakan. Jahit rune perobek pada musuh."
+"Badai Benang"
+"Organ yang Dicacah"
+"{0} Diberikan"
+"Jahit Silang"
+"Logam Kerajinan"
+"Kunci Sederhana"
+"Ambil"
+"Topeng kuno yang diukir dari bijih pucat yang dingin. Topeng melindungi pemakainya, menjaga cangkang mereka dari kerusakan."
+"Suara Paduan Suara, dinyanyikan dalam lagu suci."
+"Lonceng tempaan halus yang terbuat dari logam mengilap."
+"Alat yang Rusak"
+"Pakaian hadiah untuk peziarah saat diterima di Benteng. Anyaman tebalnya menawarkan perlindungan tambahan terhadap angin dan dingin."
+"Nektar berkualitas tinggi dari kutu daun berumur panjang, disimpan selama banyak masa hidup untuk memungkinkan pematangan yang kompleks."
+"Belatung yang hidup di dalam dan memakan Sutra Pharloom yang tersisa, terlahir dengan kemampuan merasakan Sutra dari jarak jauh."
+"Mesinnya macet."
+"Volume Musik:"
+"Patung Perajut"
+"Kapasitas Kantong Alat Diperluas"
+"Bellway"
+"Kunci Bellhome"
+"Sebongkah cangkang karang padat. Tidak cocok untuk membuat alat, tapi diklaim memiliki berbagai khasiat obat jika disiapkan dengan benar."
+"Kunci untuk sel dan lorong di Slab."
+"Nektar Vintal"
+"Jarum Bersinar"
+"Sumbangkan"
+""
+"Manik-manik diukir dari cangkang yang dipoles. Material yang lebih halus mencerminkan peningkatan nilainya."
+"Kunci pekerja kecil. Membuka pintu ke lonceng selam di Deep Docks."
+"Fragment Gulungan"
+"Beli Item?"
+"Batu Api"
+"Peta Diperbarui"
+"Daging yang diambil dari makhluk yang dikalahkan. Telah dipotong menjadi potongan-potongan halus."
+"Baunya sangat seperti lalat."
+"Gunakan {0}?"
+"Isi perut segar Muckroach, keras dan berlendir dengan bau busuk. Tidak enak bagi kebanyakan."
+"Perkamen kusut berisi doa Serangga Membara. 'Hormat pada panasmu! Wahai api yang mulia. Engkau yang membangun dan menghancurkan kami. Bakar cangkang kami. Hanguskan hingga hitam. Agar kami dapat bangkit untuk bergabung denganmu, diselubungi sukacita terang dan menyala-nyala.'"
+"Cairan benih kehidupan yang diekstrak dari kuncup matang. Memiliki kualitas regeneratif."
+"Main"
+"Keterampilan"
+"Kunci Lonceng Selam"
+"Harpa Rune"
+"Jurnal"
+"Peniti Halus"
+"Kata-kata seorang Perajut dari sarang di bawah Bone Bottom. 'Sembunyikan dia dalam-dalam, anak yang terhina, rasa malu kami ditunjukkan dalam cangkang besi. Dia adalah harapan yang terbuang percuma, keilahian ditiru dalam bentuk yang terlalu rapuh.'"
+"Keluar"
+"Lepaskan"
+"Medali tua pengembara Seth. Hadiah yang diberikan sebagai penghormatan atas keterampilan hebat."
+"Benang yang dirajut dengan campuran rosario biasa dan halus. Dapat diputus dan rosarionya digunakan untuk perdagangan."
+"Alat jahit panjang, dengan keseimbangan unik untuk pertempuran. Bilahnya diasah hingga tajam."
+"Crustnut"
+""
+"Kenang-kenangan Pahlawan"
+"Lagu Sylph"
+"Jubah Pemburu"
+"Keputusan terakhir para Konduktor. 'Dan lihatlah, keabadian dipertahankan. Dengan cakar Arsitek, kami menyambut bentuk terakhir itu, dari tombol dan rotor, dan jiwa yang dengan senang hati diberikan. Suara yang sempurna, tak goyah.'"
+"{0} Diambil"
+"Langkah Cepat"
+"Meluncur Sutra"
+"Kantong Alat & Perlengkapan Kerajinan"
+"Inti bunga yang terbentuk di sekitar tubuh Wood Wasp yang dimakan. Mengeluarkan getah lengket yang menjadi makanan tawon."
+"Sutra"
+"Kelenjar empedu dari siput sylphean langka. Master peniti berbakat dapat menggunakan cairan berkilau di dalamnya untuk meningkatkan ketajaman bilah."
+"Jurnal kasar yang terbuat dari kain dan tulang kasar, ditinggalkan oleh seorang peziarah yang gugur."
+"Peniti Kulit"
+"Perintah Ahli Bedah. 'Umat telah meninggal selama jahitan Sutra. Menolak untuk hidup kembali. Dosa dilakukan. Jangan izinkan ritual. Cangkang ditandai untuk kremasi. Ambil endapannya.'"
+"Organ seperti gelatin yang dikumpulkan dari Broodmother yang dikalahkan."
+"Organ berdenyut yang tumbuh di dalam cangkang Alkemis Zylotol. Kelenjar itu terisi kembali seiring waktu, menyediakan sumber Plasmium yang hampir tak terbatas. Pembuatan Botol Plasmium baru tidak lagi memerlukan cadangan."
+"Crest"
+"Batu Api Permata"
+"Artefak yang hampir mustahil tua, ditandai di dalam dengan banyak ukiran halus. Sebagian besar tidak dapat dibaca. '...Tidak ada keinginan... Tidak ada diri... Bayangan...'"
+"{0} Disimpan"
+"Bundel Pecahan"
+"Ornamen usang dari Kota Tak Bernama tinggi di atas Pharloom."
+"Roda Gigi Bersinar"
+"Gulungan Tulang"
+"Benang serbaguna yang diproduksi secara alami di dalam cangkang. Ketika cukup Sutra disimpan, luka dapat disembuhkan dan keterampilan dijalankan. Serang musuh untuk mengisi ulang Sutra."
+"Artefak yang ditinggalkan oleh Para Perajut, dirancang untuk mengumpulkan dan menyimpan Sutra tambahan."
+"Kunci Kulit"
+"Tajam Anak Panah"
+"Fragmen cangkang dan tulang yang mengeras, digunakan dalam pembuatan alat dan perangkap."
+"Benang sutra yang diproduksi secara alami di dalam cangkang. Ketika cukup Sutra disimpan, luka dapat disembuhkan dan keterampilan dijalankan. Hati Sutra akan secara otomatis meregenerasi sebagian Sutra. Serang musuh untuk mengisi ulang Sutra."
+"Jurnal Pemburu"
+"Roda gigi murni dari dalam cangkang automaton. Meski sudah lama digunakan, logamnya tidak kusam."
+"Inti Murni"
+"Kenang-kenangan Penjaga"
+"Mekanisme internal rumit dari serangga roda gigi. Dapat dipecah menjadi pecahan cangkang individu untuk digunakan dalam kerajinan."
+"Everbloom"
+"Selaraskan dengan kenangan lama Pharloom."
+"Medali Memori"
+"Hati Crust King Khann yang dihidupkan. Detaknya dalam dan lambat."
+"Makanan lezat beraroma yang diawetkan dalam air garam kecoa. Ciptaan paling terkenal dari koki yang tercemar nama baiknya, Lugoli."
+""
+"Sisa alat Perajut kuno, rusak dan tidak dapat dioperasikan. Pengrajin dengan keterampilan tinggi mungkin dapat memperbaikinya."
+"Kerusakan Alat"
+"Keputusan Benteng, kotor dan usang. 'Kamar Penuh ke kerajaan White Wyrm. Klaim Sang Perajut, sebagian. Terakhir dari garis keturunan mereka. Terasa kuat dengan Sutra. Perlawanan diantisipasi. Padamkan dengan sangkar rune.'"
+"Zat bergeliat dari laut gelap di dasar dunia."
+"Serangan Jarum"
+"Kenangan Abu-abu"
+"Paku tulang besar yang dikumpulkan dari Skull Tyrant yang dikalahkan."
+"Pemakan Sutra"
+"Kantong Alat"
+"Lagu panduan untuk Paduan Suara, dengan tema penyelamatan."
+"Kunci dengan tanda 'Murtad'. Membuka jalan ke sel dan lorong tertentu di Slab."
+"Jarum Baja Sarang"
+"Medali Memori"
+"Syail Peziarah"
+"Tabung dan wadah yang dibangun untuk menyimpan, merekam, dan meneliti berbagai material. Materium dapat dirakit di rumah."
+"Bunga gaib yang dipetik dari kenangan yang dalam dan jauh. Bersinar dengan cahaya pucat lembut yang menangkal kehampaan."
+"Kenangan Craw"
+"Alat jahit panjang, dengan keseimbangan unik untuk pertempuran. Bilahnya bersinar lebih tajam dari sebelumnya."
+"Batal"
+"Voltridian"
+"Konfirmasi"
+"Pilih Warna"
+"Dibutuhkan"
+"Kutu Hilang"
+"Alat jahit panjang, dengan keseimbangan unik untuk pertempuran. Bilah yang sangat halus memperlihatkan pola baja sarangnya."
+"Alat tulis untuk merekam perjalanan seseorang. Dapat digunakan untuk memperbarui peta yang telah diperoleh."
+"Tempat"
+"Buat"
+"Teknik yang diambil dari sumber primal Sutra. Putar cakar dari benang yang mencari musuh."
+"Maksimal Dimiliki"
+"Inti Tulang Belakang"
+"Ukiran Camora, Perajut penyembuhan. Sebuah doa terukir di atasnya. 'Perajut, sembuhkan putra-putraku, hati mereka yang takut, anggota tubuh mereka yang gemetar pada pendakian yang akan datang. Kami berdoa, berikanlah secercah kekuatanmu, agar ketika kami berdiri di hadapan keilahianmu, Engkau melihat serangga terbebas dari ketakutan.'"
+"Kapasitas Kantong"
+"Teknik Perajut kuno. Berpegang pada permukaan tegak dan melompat untuk mendaki ketinggian dengan cepat."
+"Potongan Cogheart"
+"Pecahan Karang"
+"Batu berinti dingin dengan kapasitas pertumbuhan kembali yang luar biasa. Jika dihancurkan menjadi pecahan cangkang, ia akan terbentuk kembali seiring waktu."
+"Kenangan Sprintmaster"
+"Kunci berkarat dengan desain umum. Dapat digunakan untuk membuka berbagai kunci sederhana. Terdegradasi oleh waktu, akan rusak setelah sekali pakai."
+"Jubah Paduan Suara"
+"Elemen langka yang ditemukan secara alami di dalam batu dan tulang Pharloom. Digunakan oleh pengrajin terampil dalam pembuatan alat dan pernak-pernik."
+"Muckmaggot Acar"
+"Dua bagian dari hati roda gigi, berisi rangkaian roda dan regulator yang rumit."
+"Hati dapat dipajang di rumah."
+"Ambil {0}?"
+"Pecahan Makhluk"
+"Medali simbolis langka, hanya diberikan kepada sahabat sejati kutu."
+"Tinggalkan"
+"Elegi Kedalaman"
+"Panggil Beastlings dan kembali bersama ke ibu mereka."
+"Plasmium"
+"Kantong untuk menyimpan perangkap dan alat, serta perkakas kerajinan halus untuk meningkatkan kebuasannya."
+"Sutra"
+"Panggilan Beastling"
+"Pecahan Topeng"
+"Kenang-kenangan Pemburu"
+"Batu bermuatan yang keras yang dapat menangkap, menyimpan, dan melepaskan listrik."
+"Berikan"
+"Patung tulang ukiran Perajut kuno. Sebuah doa terukir pada tubuhnya."
+"Cangkang retak berisi jiwa yang diambil dari serangga yang telah lama meninggal."
+"Pena"
+"Sup kental dan sirup dari Mossberry dan ramuan druid. Manis dan harum, tapi beracun bagi kebanyakan makhluk."
+"Berisi {0} rosario."
+"Terapkan"
+"Teknik deflektif makhluk yang dipintal dari benang. Ikat Sutra di sekitar jarum untuk membelokkan serangan musuh dan langsung membalas."
+"Mutiara berkilau yang diukir dengan tanda-tanda rumit. Rosario paling langka dan paling bernilai tinggi di seluruh Pharloom."
+"Berikan {0}?"
+"Bangku"
+"Satu bagian dari artefak yang ditinggalkan oleh Para Perajut, dirancang untuk mengumpulkan dan menahan Sutra. Gulungan yang lengkap akan memungkinkan seseorang untuk menyimpan lebih banyak Sutra di dalam cangkang mereka."
+"Volume Suara:"
+"Pemanggilan Craw"
+"Teknik Perajut mematikan. Lempar jarum ke depan dengan kekuatan yang dikuatkan oleh Sutra yang dililit."
+""
+"Keputusan Benteng yang compang-camping. 'Serangga dengan suara yang menjadi serak atau cangkang yang rapuh, kamu telah terpilih untuk tugas paling suci. Jadilah terang kami, pemandu kami dalam kegelapan, agar yang lain yang layak dapat mendaki untuk bergabung dengan lagu suci.'"
+"Daging yang diambil dari makhluk yang dikalahkan. Telah ditusuk dengan bersih, tapi selain itu masih utuh."
+"Pusaka desa yang hilang karena Hantu Pharloom."
+"Kulit Kain Lusuh"
+"Peta"
+"Pecahan topeng kuno yang dipakai untuk melindungi diri dari bahaya. Lengkapi topeng untuk memperkuat cangkang dan melindungi dari kerusakan."
+"Rosario Mutiara"
+"Silinder logam buatan Benteng, diukir dengan rekaman suara. Silinder dapat diputar di gramofon."
+"Silinder"
+"Menara Kerak"
+"Mata Broodmother"
+"Jual Item?"
+"Organ yang Dibakar"
+"Mesinnya kosong."
+"Perkamen memudar berisi kata-kata terakhir seorang peziarah yang hilang. '-lebih baik aku mati di sini dalam gelap lembab daripada bergabung dengan orang-orang malang itu, terjebak untuk tersandung, tanpa tujuan dan kosong, sampai anggota tubuh mereka menjadi debu.'"
+"Kunci Putih"
+"Boneka Rumput"
+"Kunci Si Pemalas"
+"Plasmium Dikumpulkan"
+"Berhenti"
+"Peta Pharloom dan pena untuk mencatat perjalanan seseorang. Saat beristirahat di bangku atau di tempat lain, peta akan diperbarui dengan area yang baru ditemukan."
+"Teknik Perajut mematikan. Lempar jarum dalam pusaran Sutra di sekitar diri sendiri, mencambuk musuh."
+"Perbaiki"
+"Isi Perut Kecoa"
+"Kunci Ahli Bedah"
+"Bakat Perajut Suci. Mainkan melodi kuno dengan merentangkan Sutra di sepanjang jarum."
+"Intisari makhluk yang menyatu di dalam. Sutra akan dipulihkan saat beristirahat di bangku."
+"Silinder logam buatan Benteng, diukir dengan melodi Para Penjaga Brankas. Silinder dapat diputar di gramofon."
+"Batu pembakar panjang dari dasar Pharloom. Ditambang dan digunakan oleh Benteng dalam penemuannya."
+"Satu bagian dari hati roda gigi, berisi mekanisme rumit dari roda dan regulator."
+"Pakaian pelindung sederhana, dijahit dengan duri fleksibel."
+"Lambang segel yang diberikan sebagai pengakuan untuk Pemburu sejati, dicap dengan cairan lengket."
+"Item Dibeli"
+"Biji berbulu keras dari pusat cluster corpora. Basi rasanya, tapi kuat sekali digiling sebagai bumbu."
+"Memecah menjadi {0} pecahan cangkang."
+"Kalung Rosario Berat"
+""
+"Batu Tumbuh"
+"Lagu panduan untuk Paduan Suara, dengan tema kenaikan."
+"Kekosongan"
+"Main"
+"Tugas"
+"Instrumen perekam Perajut tua, diuntai dengan rune Sutra. Rune yang memudar menyimpan kata-kata Perajut dari zaman dahulu."
+"Lengkap"
+"Kunci dengan tanda 'Si Pemalas'. Membuka jalan ke sel dan lorong tertentu di Slab."
+"Pecahan Topeng"
+"Kulit compang-camping yang diambil dari tubuh Crawbug. Rapuh dan kusam, dianggap memiliki sedikit kegunaan praktis."
+"Teknik Perajut mematikan. Tusuk musuh dalam kilau bilah dan Sutra."
+"Hapus"
+"Berikan Pecahan Cangkang?"
+"Ubah Penanda"
+"Potongan tanduk keras, patah dari ujung cangkang Conchfly."
+"Berikan Item?"
+"Bundel kecil pecahan cangkang yang diikat dengan benang. Dapat dipecah untuk menggunakan pecahannya dalam kerajinan."
+"Mossberry"
+"Fragment Tanduk"
+"Pasang {0}?"
+"Lonceng berat yang diisi dengan jiwa berkilau dari Pertapa Lonceng."
+"Pakai"
+"Perlengkapan Kerajinan"
+"Tampilan Persentase Penyelesaian di Inventaris"
+"Jiwa Pencari"
+"Perkamen hangus berisi coretan seorang peziarah. 'Sahabat-sahabatku tercinta, semuanya telah pergi sekarang, dimangsa, hangus, jatuh karena kelelahan, atau lebih buruk, terpedaya oleh Hantu.'"
+"Daging yang diambil dari makhluk yang dikalahkan. Telah dibakar dengan cara yang mempengaruhi rasa."
+"Cairan benih kehidupan, memiliki kualitas regeneratif yang luar biasa. Zat asing bagi Pharloom, diperkenalkan oleh Alkemis Zylotol."
+"Perbesar"
+"Pakaian pelindung yang dilapisi bulu halus Fayforn dan dijahit dengan duri fleksibel."
+"Bepergian"
+"Peta"
+"Amukan Rune"
+"Maksimal Dimiliki"
+"Sebongkah cangkang bertanduk yang mengeras yang dikumpulkan dari Savage Beastfly yang dikalahkan."
+"Kafilah Kutu"
+"Bakat Perajut kuno. Lempar jarum ke atas dan meluncur ke ketinggian yang luar biasa."
+"Rosario Cangkang"
+"Bakat Perajut lanjutan. Lempar jarum beruntai Sutra seperti harpun dan menerjang ke arahnya."
+"Jurnal"
+"Hukuman yang dikeluarkan oleh Menteri Benteng. 'Terpilih dari Paduan Suara, atas karunia Konduktor kami yang murah hati Anda diberikan pengampunan. Saat Anda keluar dari sangkar itu, serangga tua yang dosanya diampuni, Anda dapat bergabung kembali dengan kawanan kami dan merasakan cahaya kami, dan suara Anda tidak akan pernah lagi menjadi sunyi.'"
+"Kalung berat yang penuh dengan rosario mutiara. Dapat diputus dan rosarionya digunakan untuk perdagangan."
+"Penjual"
+"Ukiran Keelal, Perajut jalan. Sebuah doa terukir di atasnya. 'Perajut yang Terberkati, nyonya yang anggun, Engkau yang melihat dosa kami, cangkang kami yang rapuh, suara kami yang lemah, dan tetap menawarkan perlindungan-Mu. Betapa hebatnya pikiran-Mu untuk begitu peduli pada yang hina.'"
+"Needolin"
+"Konsumsi Pemakan Sutra untuk mengambil kepompong setelah gugur dalam pertempuran."
+"Peninggalan masa lalu Pharloom, menarik bagi pengumpul barang-barang bersejarah."
+"Tali usang yang memegang sejumlah rosario yang sedikit. Dapat diputus dan rosario longgarnya digunakan untuk perdagangan."
+"Kunci Slab"
+"Untai rosario pendek. Dapat diputus dan rosarionya digunakan untuk perdagangan."
+"Perintah yang dikeluarkan oleh Benteng. Segel yang dulu berkilau telah usang dimakan waktu."
+"Mulai Permainan"
+"Lambang besi Pengadilan Craws, membebaskan pembawanya dari semua kejahatan masa lalu dan masa depan."
+"Hati Berkerak"
+"Jarum Diasah"
+"Fragment Gulungan"
+"Plasmium"
+"Batu kerak berukir, terkikis oleh pasir dan memutih oleh waktu. '...Tonton...Ingat...Sampai waktu... Kehidupan baru...'"
+"Kunci pekerja kecil. Membuka gerbang di tengah Deep Docks."
+"Bakat Perajut legendaris. Terjang ke depan dan berlari dengan kecepatan tak wajar, seolah meluncur di atas Sutra."
+"Tombak Sutra"
+"Beli"
+"Berikan Rosario?"
+"{0} Dihancurkan"
+"Gulungan Sutra"
+"Kenang-kenangan dapat dipajang di rumah."
+"Jarum Baja Pucat"
+"Kunci Gerbang"
+"Cogheart"
+"Terima"
+"Dijumpai"
+"Potongan Cogheart"
+"Perlengkapan Kerajinan Diperluas"
+"Permohonan seorang Perajut dari ujung terjauh Pharloom. 'Larilah, saudari-saudari. Larilah sampai kekuatanmu habis, sejauh mungkin kau akhirnya lolos dari pandangan sutranya. Untuk memulai anew, untuk bertahan, bebas dari jaring dan pelayanan abadi.'"
+"Berikutnya"
+"Pakaian sederhana yang dikenakan oleh beberapa peziarah sepanjang zaman. Robek, compang-camping dan diperbaiki berkali-kali."
+"Kuncung Bengkok"
+"Item Terjual"
+"Kelenjar Plasmium"
+"Organ Tusuk Sate"
+"Penyelesaian"
+"Patung kecil, dibuat dengan tidak ahli tetapi dengan susah payah sebagai simbol persahabatan yang abadi."
+"Alat jahit panjang, dengan keseimbangan unik untuk pertempuran. Bilah Baja Sarang telah diasah hingga bentuk ultimanya."
+"Darah makhluk yang menyatu penuh dengan cairan benih kehidupan. Memiliki kualitas regeneratif yang kuat."
+"Topeng Kuno"
+"Sebuah mesin dengan simbol Sutra."
+"Kunci Whiteward yang dibuang. Membuka pintu air di bawah ruang operasi."
+"Perintah Paduan Suara"
+"Kata-kata terakhir Para Perajut. 'Saudari, laba-laba, bebannya telah diteruskan. Serangga sederhana ini akan memikulnya sepenuhnya. Tidak pernah berhenti. Tidak pernah membisu. Kami akan mati, dan menunggu, dan berdoa, agar seseorang datang dengan kekuatan sutra yang cukup untuk menganyam kami bebas.'"
+"Sebongkah material mengeras yang ditemukan di cangkang makhluk besar. Dapat dipecah menjadi pecahan cangkang individu untuk digunakan dalam kerajinan."
+"Resolusi:"
+"Pecahan topeng kuno yang dipakai untuk melindungi diri dari bahaya. Lengkapi topeng untuk memperkuat cangkang dan melindungi dari kerusakan."
+"Magnetit"
+"Paku Pucat"
+"Fragment Mahkota"
+"Serat fleksibel dari dalam tulang belakang Hoker. Dapat ditenun menjadi pakaian dan aksesori oleh penjahit yang terampil."
+"Lonceng Perak"
+"Penanda"
+"Kunci putar Para Arsitek. Membuka Kapel mereka di Underworks."
+"Pakaian pelindung sederhana, ditenun dengan ahli tetapi menunjukkan tanda-tanda penuaan."
+"Instrumen pengawasan Perajut yang ditarik. Setelah dirakit, perangkat akan memungkinkan pengamatan dari jarak jauh. Farsight dapat dirakit di rumah."
+"Hati Tergabung"
+"Pecahan Cangkang"
+"Kembali"
+"Pesan coretan di kain hitam compang-camping. 'Pencemar... Kegelapan... Hadir... Rumah... Roda...'"
+"Patung Hornet"
+"Tampilkan Penanda/Kunci"
+"Kenang-kenangan"
+"Manik-manik diukir dari berbagai bahan, digunakan sebagai ukuran iman dan diperdagangkan sebagai mata uang. Masing-masing diukir dengan desain pola halus."
+"Cengkeraman Berpegangan"
+"Hati Green Prince yang dihidupkan. Detaknya tajam dan jernih."
+"Garis Cakar"
+"Botol hadiah dari Pelayan Kapel, diisi penuh dengan jiwa yang berputar."
+"Batu melayang rapuh, ditemukan di seluruh tepian Pharloom."
+"Telur batu hitam yang terbentuk sebelum kelahiran Pharloom. Peninggalan dari masa lalu kuno. Sangat dihargai oleh pengumpul barang-barang bersejarah."
+"Inventaris"
+"Hati Nyleth yang dihidupkan. Detaknya lemah dan cepat."
+"Kunci ke lonceng yang dipulihkan di atas Bellhart."
+"Minyak Pucat"
+"Farsight"
+"Item Diperbaiki"
+"Rebusan Mossberry"
+"Jarum"
+"Darah Terplasmifikasi"
+"Kunci logam buatan halus, dibentuk menyerupai alat bedah. Memberikan akses ke Whiteward Benteng."
+"Silinder Mazmur"
+"Massa sulur abu yang terpelintir. Berteriak tanpa henti."
+"Crawbell"
+"Ukiran Atla, Perajut waktu. Sebuah doa terukir di atasnya. 'Berkat contohmu, dan sejarah kami yang terpelihara penuh dalam pikiran, lagu kami adalah milikmu, karena namamu suci. Perajut Atla, semoga kamu dipuji selamanya.'"
+"Baunya samar seperti lalat."
+"Khotbah tentang pelayanan, disampaikan oleh Penjaga Brankas yang ditahbiskan kepada calon anggota yang sedang dilatih."
+"Opsi"
+"Jiwa Gadis"
+"Hati Pemburu"
+"Alat jahit panjang, dengan keseimbangan unik untuk pertempuran. Bilahnya ditandai oleh waktu dan penggunaan."
+"Materium"
+"Opsi"
+"Melodi suci Para Penjaga Brankas, didambakan dan diklaim oleh paus di bawah Whispering Vaults."
+"Keluar Permainan"
+"Relik"
+"Jubah Faydown"
+"Hiasan yang diuntai dengan sejumlah besar rosario. Dapat diputus dan rosarionya digunakan untuk perdagangan."
+"Cairan benih kehidupan yang diekstrak dari kuncup matang. Memiliki kualitas regeneratif."
+"Kunci Arsitek"
+"Mainan anak ukiran serangga berbalut daun."
+"Jiwa Pertapa"
+"Untai Rosario"
+"Kalung Rosario"
+"Kalung Rosario Pucat"
+"Kenangan Permukaan"
+"Senjata umum Pharloom, masih dalam kondisi baik meski sudah lama digunakan. Batang logam buatan ahli dengan ujung runcing."
+"Untai Rosario Lusuh"
+"Apakah Anda yakin?"
+"Jual"
+"Operasi terakhir Konduktor Mizello, dilakukan di ruang operasi Whiteward."
+"Hati Sutra"
+"Benang halus yang dipintal dari jiwa penciptanya. Sangat didambakan karena kekuatan dan sifat mistisnya yang luar biasa. Digunakan untuk menyembuhkan luka, memperpanjang hidup dan menenun rune yang kuat."
+"Rosario"
+"Peta Pharloom, sebagian diisi oleh Shakra. Tanpa pena, tidak dapat diperbarui."
