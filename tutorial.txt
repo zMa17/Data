@@ -23,3 +23,16 @@
 #INFORMASI
 pastikan ketika bekerja menggunakan vscode, untuk encoding nya pakai UTF-8.
 jika belum kamu bisa mengubah nya dengan tekan ctrl + shift + p. kemudian ketik encoding. dan pilih UTF-8
+
+
+
+___________________________
+
+-- NEW SCRIPT TUTORIAL --
+1. cd Dumps_EN
+2. run python 'extract_entries.py EN_Caravan.txt' (sesuaikan dengan file yang ingin kamu kerjakan)
+3. copy hasil script diatas ke file baru dengan nama translate.txt
+4. run script 'python trim.py' untuk menghapus empty lines, dan paste kan hasil nya ke translate.txt tadi
+5. copy and paste EN_Caravan.txt dan ubah menjadi source.xml
+6. run script 'replace_entries.py source.xml translate.txt output.xml'
+7. cut output.xml ke folder Customs_EN_Plaintext, lalu rename menjadi nama awal file. EN_Caravan.txt
